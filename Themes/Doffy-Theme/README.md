@@ -1,5 +1,5 @@
 # Doffy Theme
-![Preview](https://raw.githubusercontent.com/zolabeille67/BetterDiscord-ThemesAndPlugins/refs/heads/main/Themes/DoffyThumbnail-1.0.png)
+![Preview](https://raw.githubusercontent.com/zolabeille67/BetterDiscord-ThemesAndPlugins/refs/heads/main/Themes/Doffy-Theme/DoffyThumbnail-1.0.png)
 
 
 ## Download
