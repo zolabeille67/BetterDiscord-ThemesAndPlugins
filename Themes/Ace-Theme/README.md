@@ -1,4 +1,4 @@
-# Ace Theme
+# Ace Theme 🔥
 ![Preview](https://raw.githubusercontent.com/zolabeille67/BetterDiscord-ThemesAndPlugins/refs/heads/main/Themes/Ace-Theme/AceThumbnail-1.0.png)
 
 
@@ -8,11 +8,11 @@ Currently, there is only one method to download this theme : Save Page As
 ### Method 1: Save Page As
 This method is used when you're downloading this theme from here, my github repo, and you don't want to waste your time downloading the entire repo.
 
-1. Click on the file called `Ace-Theme.css`.
+1. Click on the file called `Ace.theme.css`.
 1. Click on the button called `Raw` at the top right of the file.
 1. Right click anywhere on page and Click `Save Page As`.
 1. Now you can navigate to your themes folder and save it there but for this procedure, just save it to your `Downloads` folder for now, we'll move it later in the Installation.
-1. Make sure that the file name ends with `.css` otherwise BBD will **NOT** pick it up.
+1. Make sure that the file name ends with `.theme.css` otherwise BBD will **NOT** pick it up.
 1. Make sure that the `Save as type` is set to `All files` before clicking save.
 1. You can now click `Save` and you can now move on to Installation .
 
